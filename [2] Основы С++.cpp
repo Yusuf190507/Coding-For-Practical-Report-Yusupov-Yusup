@@ -1,3 +1,5 @@
+//Задача A. Никогда не играйте с незнакомцами
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
